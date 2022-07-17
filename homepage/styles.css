@@ -1,0 +1,93 @@
+#name
+{
+    color: red;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    margin-left: 0.9rem;
+    margin-bottom: 0.1rem;
+    text-align: center;
+}
+a: hover {
+    text-decoration: underline;
+}
+body
+{
+    margin: 0;
+    background-color: yellow;
+    margin-bottom: 0.1rem;
+
+}
+p
+{
+    margin-top: 0rem;
+    margin-bottom: 0.1rem;
+    text-align: left;
+
+}
+header
+{
+    font-size: large;
+    margin-left: 0.6rem;
+}
+main
+{
+    font-size: medium;
+    margin-left: 0.6rem;
+}
+footer
+{
+    font-size: small;
+    margin-left: 0.6rem;
+
+}
+.length
+{
+    line-height: 1.5;
+}
+h1{
+    text-align: center;
+    color: green;
+    margin-left: 0.6rem;
+}
+h2,h3{
+    margin-top: 0;
+    text-align: left;
+    color: blue;
+    margin-left: 0.1rem;
+    margin-bottom: 0.1rem;
+}
+#name .length {
+    background-color: orange;
+}
+.lead{
+    text-align: left;
+    color: blue;
+    font-size: large;
+    margin-left: 0.6rem;
+    margin-bottom: 0.1rem;
+}
+.social-icons{
+    text-align: left;
+    margin-left: 0.6rem;
+    margin-bottom: 0.1rem;
+
+}
+
+
+.left{
+    margin-left: 0.6rem;
+    margin-bottom: 0.1rem;
+}
+h4{
+    text-align: center;
+    color: blue;
+}
+.margin{
+    margin-top: 0rem;
+}
+.dos{
+    text-align: center;
+}
